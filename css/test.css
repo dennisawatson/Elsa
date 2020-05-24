@@ -1,27 +1,78 @@
-<style type="text/css">
 
-header {
+body{
+	Margin: 0;
 
-
-	background-color: Pink;
-
-				
-}
-
-header h1	{
-
+	}
 	
-		 color: red}
 
+header{
+		background-color: #03b8d9;
+		text-align: center;
+		padding-top: 10px;
+		padding-bottom:10px;
+		}
 
+		h1{
+					color: white;
+					font-family:  helvetica;
+					font-size: 80px;
+		}
 
-main {
+		header img {
+				border border-radius: 150px;
+				width: 300px;
+				border: 20px solid white
+		}
 
+main{
+	max-width: 900px;
+	text-align: center;
+	margin: 0 auto;
+	padding: 10px, 50px, 200px, 200px;
+	background-color: #0ac698;
 
 }
+
+main img {
+
+		background-color: #99f0cb;
+		text-align: center;
+		padding-top: 30px;
+		padding-bottom:30px;
+
+	max-width: 100%;
+}
+h2{
+					color: white;
+					font-family:  helvetica;
+					font-size: 50px;
+					padding-top: 30px;
+					padding-bottom:0px;
+}
+
+h3{
+					color: white;
+					font-family:  helvetica;
+					font-size: 30px;
+
+					background-color: #99f0cb;
+					text-align: center;
+					padding-top: 30px;
+					padding-bottom:30px;
+
+		
+}
+
+
+
 
 footer	{
 
+	max-width: 900px;
+	text-align: center;
+	margin: 0 auto;
+	padding: 0px, 0px, 0px, 0px;
+	background-color: #03b8d9;
 
 
 }
