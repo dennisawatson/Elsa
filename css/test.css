@@ -1,29 +1,29 @@
-	<style type="text/css">
-		
-		h1{
-			color: green;
-			font -size: 100px;
+<style type="text/css">
+
+header {
+
+
+	background-color: Pink;
+
 				
-		}
+}
 
-		h2{
-			font-size: 20px
-			color: black;
-		}
+header h1	{
 
-		.big {
+	
+		 color: red}
 
-			font-size: 40px;
-		}
 
-		.uppercase {
-			text-transform: uppercase;
 
-		}
+main {
 
-		.big.uppercase {
-			color: navy;
 
-		}
+}
 
-	</style>
+footer	{
+
+
+
+}
+
+
